@@ -27,7 +27,7 @@ yesBtn.addEventListener('click', () => {
         <div style="text-align:center; padding:20px;">
           <img src="good.jpg" style="width:200px; margin-bottom:20px;" />
           <h2 style="font-size:24px; color:#28a745;">
-            Rajnish Yadav itna acha hai ki No button khud hi darr ke idher udher bhag raha hai 😆
+            Rajnish Yadav itna acha hai ki <br> No button khud hi darr ke idher udher bhag raha hai 😆
           </h2>
         </div>
       `;
